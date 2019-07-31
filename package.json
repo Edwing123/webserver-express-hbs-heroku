@@ -1,0 +1,20 @@
+{
+  "name": "section-07",
+  "version": "1.0.0",
+  "description": "Creating a webserver (section 7)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Webserver",
+    "nodejs"
+  ],
+  "author": "Edwing123",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "nodemon": "^1.19.1"
+  }
+}
